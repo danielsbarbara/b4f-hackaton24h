@@ -1,6 +1,6 @@
 const { MongoClient } = require('mongodb')
 
-const url = "mongodb+srv://danielsantosbarbara:H4195codk9yR8LsK@cluster0.tdkncp7.mongodb.net/"
+const url
 const defaultDbName = "CasaIdeal"
 
 let client = undefined
